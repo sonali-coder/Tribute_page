@@ -1,2 +1,2 @@
 # Tribute_page
-Tribute page for responsive web design at freecodecamp
+Tribute page for responsive web design.

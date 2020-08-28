@@ -1,0 +1,25 @@
+body{
+  background-color: magenta;
+  text-align: center;
+}
+h1{
+  font-family: sans-serif;
+  font-size: 50px;
+  color: Black;
+}
+h2{
+  color:  #006400;
+}
+#image{
+  height: 100px;
+}
+#img-caption{
+  font-family: sans-serif
+}
+p{
+ font-family: helvetica; 
+}
+.tribute-link {
+  font-size: 30px;
+  color:black;
+}

@@ -1,11 +1,11 @@
 body{
-  background-color: magenta;
+  background-color: maroon;
   text-align: center;
 }
 h1{
-  font-family: Rimouski;
+  font-family: Rimouski sans-serif;
   font-size: 50px;
-  color: Black;
+  color: Gray;
 }
 h2{
   color:  #006400;
@@ -14,12 +14,12 @@ h2{
   height: 100px;
 }
 #img-caption{
-  font-family: sans-serif
+  font-family: helvetica sans-serif
 }
 p{
- font-family: helvetica; 
+ font-family: helvetica sans-serif; 
 }
 .tribute-link {
   font-size: 30px;
-  color:black;
+  color:Gray;
 }
